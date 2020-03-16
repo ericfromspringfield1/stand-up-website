@@ -1,0 +1,117 @@
+/* Import the google web fonts you want to use */
+@import url('https://fonts.googleapis.com/css?family=Comfortaa%7CPatua+One');
+@import url('https://fonts.googleapis.com/css?family=Faster+One|Libre+Barcode+39+Extended+Text|Libre+Barcode+39+Text|Spicy+Rice&display=swap');
+/*Typography
+--------------------------------------------------------------*/
+body,
+button,
+input,
+select,
+textarea {
+    color: black;
+    font-family: 'Comfortaa', Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.site-title {
+align-content: space-between;  
+color: rgb(238, 238, 5);
+text-align: center;
+background-color: rgb(66, 65, 65);
+font-size: 3.3em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+ font-family: 'Patua One', serif;
+ letter-spacing: 2px;
+}
+.center {
+ text-align: center;
+}
+.welcome--btns {
+display: flex;
+justify-content: space-evenly;
+margin-top: 27;
+}
+
+
+.register--btn {
+    background-color: rgb(53, 53, 53); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Patua One', serif;
+    border-radius: 8px;
+}
+
+.register--btn:hover {
+background-image: url("https://images.unsplash.com/photo-1563455586-98caa7512fa8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80");
+color: black;
+border-radius: 10%;
+border: solid 1.33pt;
+}
+
+.login--btn {
+    background-color: rgb(53, 53, 53); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Patua One', serif;
+    border-radius: 8px;
+}
+
+.login--btn:hover {
+    background-image: url("https://images.unsplash.com/photo-1563455586-98caa7512fa8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80");
+    color: black;
+    border-radius: 10%;
+    border: solid 1.33pt;
+    }
+
+
+strong {
+ font-weight: bold;
+}
+address {
+ margin: 0 0 1.5em;
+}
+
+img {
+ display: block;
+ width: 30%;
+ height: auto;
+ margin: 40px auto;
+ border-radius: 50%;
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+          transition:         transform .8s ease-in-out;
+}
+
+img:hover {
+  -webkit-transform: rotate(720deg);
+          transform: rotate(720deg);
+}
+
+.section-content {
+ padding: 1.4em;
+}
+/* .container-cards {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-between;
+}
+
+.footer {
+background-color: rgb(66, 65, 65);
+} */

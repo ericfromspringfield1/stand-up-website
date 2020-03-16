@@ -1,0 +1,444 @@
+{
+  "users": [
+    {
+      "username": "Seinfeld",
+      "email": "DrankCoffee@cars.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "Bill Cosby",
+      "email": "Cancelled@cancelled.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "Greg",
+      "email": "Greg@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "username": "Bobby",
+      "email": "bobby@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "username": "Funny Comedian",
+      "email": "ha@ha.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "username": "Eric Taylor",
+      "email": "ericfromspringfield@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "username": "erict",
+      "email": "erict@erict.com",
+      "password": "123",
+      "id": 7
+    }
+  ],
+  "gigs": [
+    {
+      "name": "Hosie and Charles Moore Show",
+      "date": "2019-09-13",
+      "venueId": "18",
+      "audienceId": "5",
+      "spotId": "2",
+      "userId": 4,
+      "id": 6
+    },
+    {
+      "name": "Here's Another",
+      "date": "2019-09-28",
+      "venueId": "17",
+      "audienceId": "4",
+      "spotId": "6",
+      "userId": 4,
+      "id": 7
+    },
+    {
+      "name": "Silent Movie With Little to no sound",
+      "date": "2019-09-12",
+      "venueId": 25,
+      "audienceId": 1,
+      "id": 17,
+      "spotId": 4,
+      "userId": 2
+    },
+    {
+      "name": "Live From Demo Day",
+      "date": "2019-10-01",
+      "venueId": 28,
+      "audienceId": 5,
+      "id": 18,
+      "spotId": 3,
+      "userId": 3
+    },
+    {
+      "name": "Wilford Brimley Bake Sale For Diabeetus",
+      "date": "2019-10-01",
+      "venueId": "13",
+      "audienceId": "3",
+      "spotId": "6",
+      "userId": 3,
+      "id": 21
+    },
+    {
+      "name": "wljopww jl lLJffljlFLLFl",
+      "date": "2019-09-30",
+      "venueId": "29",
+      "audienceId": "6",
+      "spotId": "3",
+      "userId": 3,
+      "id": 22
+    },
+    {
+      "name": "Live From Mock Interviews",
+      "date": "2019-10-22",
+      "venueId": "9",
+      "audienceId": "5",
+      "spotId": "6",
+      "userId": 1,
+      "id": 23
+    },
+    {
+      "name": "NSS C34 Mock Interviews",
+      "date": "2019-10-23",
+      "venueId": "31",
+      "audienceId": "5",
+      "spotId": "6",
+      "userId": 6,
+      "id": 24
+    },
+    {
+      "name": "Icee Fest",
+      "date": "2019-10-23",
+      "venueId": "33",
+      "audienceId": "2",
+      "spotId": "3",
+      "userId": 6,
+      "id": 25
+    },
+    {
+      "name": "Capitol Theater Grand Opening",
+      "date": "2020-12-12",
+      "venueId": "34",
+      "audienceId": "5",
+      "spotId": "6",
+      "userId": 7,
+      "id": 26
+    },
+    {
+      "name": "Live At COVID-19",
+      "date": "2020-03-13",
+      "venueId": "24",
+      "audienceId": "4",
+      "spotId": "6",
+      "userId": 1,
+      "id": 27
+    },
+    {
+      "name": "Night Of Tee Hees",
+      "date": "2020-03-06",
+      "venueId": "35",
+      "audienceId": "1",
+      "spotId": "6",
+      "userId": 1,
+      "id": 28
+    },
+    {
+      "name": "Open Mic Night",
+      "date": "2020-03-09",
+      "venueId": 36,
+      "audienceId": 2,
+      "id": 29,
+      "spotId": 3,
+      "userId": 1
+    },
+    {
+      "name": "Social Distancing Fest",
+      "date": "2020-03-13",
+      "venueId": "37",
+      "audienceId": "1",
+      "spotId": "6",
+      "userId": 1,
+      "id": 30
+    }
+  ],
+  "venues": [
+    {
+      "name": "Nashville Software School",
+      "city": "Nashville ",
+      "state": "TN",
+      "capacity": "150",
+      "id": 9,
+      "userId": 1
+    },
+    {
+      "name": "Kroger Deli",
+      "city": "Murfreesboro",
+      "state": "TN",
+      "capacity": "25",
+      "id": 10,
+      "userId": 1
+    },
+    {
+      "name": "Greg's Prison Cell",
+      "city": "San Quinton",
+      "state": "CA",
+      "capacity": "2,382",
+      "id": 11,
+      "userId": 2
+    },
+    {
+      "name": "Moynihan",
+      "city": "Hendersonville",
+      "state": "TN",
+      "capacity": "98",
+      "userId": 2,
+      "id": 12
+    },
+    {
+      "name": "Zanies",
+      "city": "Nashville",
+      "state": "TN",
+      "capacity": "300",
+      "id": 13,
+      "userId": 3
+    },
+    {
+      "name": "MTSU KUC",
+      "city": "Murfreesboro",
+      "state": "TN",
+      "capacity": "444",
+      "userId": 3,
+      "id": 14
+    },
+    {
+      "name": "328 Performance Hall",
+      "city": "Nashville ",
+      "state": "TN",
+      "capacity": "250",
+      "userId": 3,
+      "id": 15
+    },
+    {
+      "name": "Chucklehut",
+      "city": "Nashville",
+      "state": "TN",
+      "capacity": "222",
+      "userId": 4,
+      "id": 16
+    },
+    {
+      "name": "Good Time's Funny Hut",
+      "city": "Springfield",
+      "state": "TN",
+      "capacity": "345",
+      "userId": 4,
+      "id": 17
+    },
+    {
+      "name": "Aspire ",
+      "city": "Springfield",
+      "state": "TN",
+      "capacity": "50",
+      "userId": 4,
+      "id": 18
+    },
+    {
+      "name": "Funny Bone's and Ribs",
+      "city": "Nashville",
+      "state": "TN",
+      "capacity": "150",
+      "userId": 5,
+      "id": 19
+    },
+    {
+      "name": "The Haha House of Hee Hees",
+      "city": "Sylacauga ",
+      "state": "AL",
+      "capacity": "250",
+      "userId": 5,
+      "id": 20
+    },
+    {
+      "name": "The Ryman",
+      "city": "Nashville",
+      "state": "TN",
+      "capacity": "3,500",
+      "userId": 5,
+      "id": 21
+    },
+    {
+      "name": "Zanies",
+      "city": "Nashville",
+      "state": "TN",
+      "capacity": "450",
+      "userId": 1,
+      "id": 24
+    },
+    {
+      "name": "Theo's Car",
+      "city": "Brooklyn ",
+      "state": "TN",
+      "capacity": "87",
+      "userId": 2,
+      "id": 25
+    },
+    {
+      "name": "Young Yummy's",
+      "city": "Springfield",
+      "state": "Tn",
+      "capacity": "61",
+      "userId": 3,
+      "id": 26
+    },
+    {
+      "name": "Nashville Software School",
+      "city": "Nashville",
+      "state": "TN",
+      "capacity": "50",
+      "userId": 3,
+      "id": 28
+    },
+    {
+      "name": "Springfield Cinema",
+      "city": "Springfield ",
+      "state": "TN",
+      "capacity": "500",
+      "userId": 3,
+      "id": 29
+    },
+    {
+      "name": "ThjoOfjojown NLnow4",
+      "city": "Nashville",
+      "state": "TN",
+      "capacity": "150000",
+      "userId": 3,
+      "id": 30
+    },
+    {
+      "name": "Nashville Software School",
+      "city": "Nashville",
+      "state": "TN",
+      "capacity": "150",
+      "userId": 6,
+      "id": 31
+    },
+    {
+      "name": "Zanies",
+      "city": "Nashville",
+      "state": "TN",
+      "capacity": "350",
+      "userId": 6,
+      "id": 32
+    },
+    {
+      "name": "1986 Walmart Snack Bar",
+      "city": "Springfield ",
+      "state": "TN",
+      "capacity": "27",
+      "userId": 6,
+      "id": 33
+    },
+    {
+      "name": "Capitol Theater",
+      "city": "Springfield",
+      "state": "Tennessee",
+      "capacity": "850",
+      "userId": 7,
+      "id": 34
+    },
+    {
+      "name": "Capitol Theater",
+      "city": "Springfield",
+      "state": "TN",
+      "capacity": "800",
+      "userId": 1,
+      "id": 35
+    },
+    {
+      "name": "Historic Perk",
+      "city": "Springfield",
+      "state": "TN",
+      "capacity": "75",
+      "userId": 1,
+      "id": 36
+    },
+    {
+      "name": "Third Coast Comedy Club",
+      "city": "Nashville ",
+      "state": "TN",
+      "capacity": "110",
+      "userId": 1,
+      "id": 37
+    },
+    {
+      "name": "Springfield Middle School",
+      "city": "Springfield",
+      "state": "TN",
+      "capacity": "800",
+      "id": 38,
+      "userId": 1
+    }
+  ],
+  "audiences": [
+    {
+      "name": "Hot",
+      "id": 1
+    },
+    {
+      "name": "Cold",
+      "id": 2
+    },
+    {
+      "name": "Drunk",
+      "id": 3
+    },
+    {
+      "name": "Sparse",
+      "id": 4
+    },
+    {
+      "name": "Fun & Engaged",
+      "id": 5
+    },
+    {
+      "name": "Heckler-Heavy",
+      "id": 6
+    }
+  ],
+  "spots": [
+    {
+      "name": "Opener",
+      "id": 1
+    },
+    {
+      "name": "Host",
+      "id": 2
+    },
+    {
+      "name": "Middle",
+      "id": 3
+    },
+    {
+      "name": "Check",
+      "id": 4
+    },
+    {
+      "name": "Guest",
+      "id": 5
+    },
+    {
+      "name": "Headliner",
+      "id": 6
+    }
+  ]
+}
